@@ -1,2 +1,3 @@
 # premake-taki
-A ninja generator for Premake 5.
+
+This is the premake-taki project.
